@@ -1,0 +1,8 @@
+{
+  "name": "foodly",
+  "app_id": "f881dafe",
+  "type": "ionic-angular",
+  "integrations": {
+    "cordova": {}
+  }
+}
